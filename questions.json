@@ -22,5 +22,21 @@
     "choice3": "msg('Hello World');",
     "choice4": "alert('Hello World');",
     "answer": 4
+  },
+  {
+    "question": "What command creates a new branch from the currently checked-out branch?",
+    "choice1": "git -b checkout <nameOfBranch>",
+    "choice2": "git branch",
+    "choice3": "git checkout <nameOfBranch>",
+    "choice4": "git checkout -b <nameOfBranch>",
+    "answer": 4
+  },
+  {
+    "question": "What method can be used to create a new instance of an object?",
+    "choice1": "another instance",
+    "choice2": "field",
+    "choice3": "constructor",
+    "choice4": "private method",
+    "answer": 3
   }
 ]
